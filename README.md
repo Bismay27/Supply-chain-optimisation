@@ -1,0 +1,3 @@
+# Supply-chain-optimisation
+This repository contains code and data files for optimizing plant location decisions for a manufacturing company. The optimization problem aims to determine the most cost-effective distribution of production plants across different countries and capacities, considering various costs, demands, and constraints.
+The optimization problem aims to minimize the total cost of production, including variable costs, fixed costs, and transportation costs, while satisfying demand constraints and capacity constraints. The decision variables involve selecting the type of plant (low or high capacity) to open in each country and determining the production quantities for each pair of source and destination countries.
